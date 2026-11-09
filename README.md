@@ -6,7 +6,7 @@ This project analyzes employee data to identify key factors associated with empl
 
 ## **Project Details**
 
-- **Tools:** Microsoft Excel, Pivot Tables, Google Looker Studio
+- **Tools:** Microsoft Excel, Pivot Tables, Google Data Studio
 - **Dataset:** IBM HR Analytics Employee Attrition Dataset
 - **Total Records:** 1,470
 - **Original Columns:** 35
@@ -71,7 +71,7 @@ Used Excel Pivot Tables to examine employee attrition patterns across different 
 
 ### **4. Employee Attrition Dashboard**
 
-Developed an interactive dashboard using Google Looker Studio to visualize employee attrition patterns and compare workforce segments.
+Developed an interactive dashboard using Google Data Studio to visualize employee attrition patterns and compare workforce segments.
 
 **Dashboard Metrics:**
 
@@ -90,7 +90,7 @@ Developed an interactive dashboard using Google Looker Studio to visualize emplo
 
 **Interactive Dashboard:**
 
-[**View Live Dashboard – Google Looker Studio**](https://datastudio.google.com/reporting/082b7024-088b-4b2e-a91e-e2dbd149dbc0)
+[**View Live Dashboard – Google Data Studio**](https://datastudio.google.com/reporting/082b7024-088b-4b2e-a91e-e2dbd149dbc0)
 
 ## **Key Business Recommendations**
 
