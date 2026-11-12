@@ -31,7 +31,7 @@ Performed initial data exploration and validation to assess dataset completeness
 - 1,470 employee records were included in the dataset.
 - No duplicate records were found.
 - No missing values were identified.
-- All data types were verified and standardized.
+- All data types were reviewed and verified.
 - Identified unnecessary columns that could be removed before analysis.
 
 ### **2. Data Cleaning & Preparation**
@@ -65,7 +65,7 @@ Used Excel Pivot Tables to examine employee attrition patterns across different 
 **Key Findings:**
 
 - Sales Representatives recorded the highest attrition rate at 39.76%.
-- Employees working overtime had an attrition rate of 30.53%.
+- Employees working overtime recorded a higher attrition rate of 30.53%.
 - Employees with 0–2 years of service recorded the highest attrition rate at 29.82%.
 - Low-income employees had the highest attrition rate at 21.76%.
 
